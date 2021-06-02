@@ -1,4 +1,4 @@
-### so-fi
+<h1>so-fi</h1>
 A simple shell to find source code of Websites
 
 <h2>Installation</h2>
