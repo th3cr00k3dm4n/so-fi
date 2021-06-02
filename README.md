@@ -1,18 +1,18 @@
 ### so-fi
 A simple shell to find source code of Websites
 
-###Installation
+<h2>Installation</h2>
 
 
 ```
--pkg install git
+$ pkg install git
 
--git clone https://github.com/th3cr00k3dm4n/so-fi
+$ git clone https://github.com/th3cr00k3dm4n/so-fi
 
--cd so-fi
+$ cd so-fi
 
--chmod 777 source.sh
+$ chmod 777 source.sh
 
--./source.sh
+$ ./source.sh
 
 ```
